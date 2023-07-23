@@ -1,0 +1,1 @@
+Esse é um dos meus primeiros projetos de desenvolvimento frontend. Gostei muito de fazê-lo, espero fazer muitos outros futuramente.
